@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+python-docx
+PyPDF2
+openpyxl
+flask
+requests
+python-dotenv
